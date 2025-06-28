@@ -6,7 +6,11 @@ Tracking remote and small Unmanned Aerial Vehicles (UAVs) in infrared videos is 
 The long-term tracking evaluation:
 <div align=center><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/assets/Seqs_18_precision_long.png"/><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/assets/Seqs_18_success_long.png"/></div>
 
-<div align=center><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/demo.mp4"/><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/demo.mp4"/></div>
+<div align="center">
+  <a href="https://github.com/JayChou-z/SiamBS/releases/tag/video?raw=true">
+    <img src="https://github.com/JayChou-z/SiamBS/blob/main/assets/framework.png" width="300" height="300" />
+  </a>
+</div>
 
 
 ## 2.Environment
