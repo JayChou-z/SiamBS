@@ -8,7 +8,7 @@ The long-term tracking evaluation:
 
 <div align="center">
   <a href="https://github.com/JayChou-z/SiamBS/releases/download/video/video_all.mp4?raw=true">
-    <img src="https://github.com/JayChou-z/SiamBS/blob/main/assets/framework.png" width="300" height="300" />
+    <img src="https://github.com/JayChou-z/SiamBS/blob/main/assets/track_img.jpg" width="300" height="300" />
   </a>
 </div>
 
