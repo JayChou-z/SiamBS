@@ -7,7 +7,7 @@ The long-term tracking evaluation:
 <div align=center><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/assets/Seqs_18_precision_long.png"/><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/assets/Seqs_18_success_long.png"/></div>
 
 <div align="center">
-  <a href="https://github.com/JayChou-z/SiamBS/releases/tag/video?raw=true">
+  <a href="https://github.com/JayChou-z/SiamBS/releases/download/video/video_all.mp4?raw=true">
     <img src="https://github.com/JayChou-z/SiamBS/blob/main/assets/framework.png" width="300" height="300" />
   </a>
 </div>
