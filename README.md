@@ -4,6 +4,8 @@ Specifically, a butterfly-shaped model is constructed to extract the deep featur
 The long-term tracking evaluation:
 <div align=center><img width="300" height="300" src="https://github.com/JayChou-z/BSiamIST/blob/main/precision_long.png"/><img width="300" height="300" src="https://github.com/JayChou-z/BSiamIST/blob/main/success_long.png"/></div>
 
+<div align=center><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/demo.mp4"/><img width="300" height="300" src="https://github.com/JayChou-z/SiamBS/blob/main/demo.mp4"/></div>
+
 
 ## 2.Environment
 - python=3.9  
